@@ -24,5 +24,8 @@
   "devDependencies": {
     "koa": "^0.8.2",
     "mocha": "^1.21.3"
+  },
+  "dependencies": {
+    "xtream": "^0.1.0"
   }
 }
