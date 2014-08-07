@@ -2,6 +2,8 @@
 
 Middleware to embbed CGI scripts like PHP
 
+[![NPM](https://nodei.co/npm/koa-cgi.png)](https://nodei.co/npm/koa-cgi/)
+
 ## TL; DR
 
 ```
