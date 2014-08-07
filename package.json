@@ -26,7 +26,7 @@
     "mocha": "^1.21.3"
   },
   "dependencies": {
-    "debug": "^1.0.4",
-    "xtream": "^0.1.0"
+    "cross-spawn": "^0.1.7",
+    "debug": "^1.0.4"
   }
 }
