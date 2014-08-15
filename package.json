@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "cross-spawn": "^0.1.7",
-    "debug": "^1.0.4"
+    "debug": "^1.0.4",
+    "cgi-run": "*"
   }
 }
